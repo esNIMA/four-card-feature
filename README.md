@@ -1,8 +1,35 @@
-# React + Vite
+# Frontend Mentor - Four card feature section solution
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a solution to the [Four card feature section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). 
 
-Currently, two official plugins are available:
+## Overview
+### The challenge
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Users should be able to:
+
+- View the optimal layout for the site depending on their device's screen size
+
+### Screenshot
+
+![](./screenshot.jpg)
+
+
+### Links
+
+- Solution URL: https://esnima.github.io/four-card-feature/
+
+
+## My process
+
+### Built with
+
+- React.js
+- Tailwind
+
+### What I learned
+I tried Flexbox on Tailwind for the first time. That was fun. 
+
+## Author
+Nima Mahmoodian
+-LinkedIn: www.linkedin.com/in/nima-mahmoodian
+
